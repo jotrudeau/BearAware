@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "738538929362",
+    "firebase_url": "https://bearawaredatabase-default-rtdb.firebaseio.com",
+    "project_id": "bearawaredatabase",
+    "storage_bucket": "bearawaredatabase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:738538929362:android:0affa990cb26125dbf410b",
+        "android_client_info": {
+          "package_name": "com.example.bearaware"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "738538929362-34425lkfluqa4t4evp1mrbsu1u1p0f4q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMxKP3KabWtNVuIEbYYYyiL6HgsGxzHxk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "738538929362-34425lkfluqa4t4evp1mrbsu1u1p0f4q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
